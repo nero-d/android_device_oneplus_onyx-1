@@ -1,8 +1,7 @@
 [
  {
-   "repository" : "dirtyredmi2/android_device_oppo_common",
-   "target_path": "device/oppo/common",
-   "branch"     :  "n"
+   "repository" : "device_oppo_common",
+   "target_path": "device/oppo/common"
  },
  {
    "repository" : "ssawrav/Arsenic.Kernel",
