@@ -20,7 +20,7 @@
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_oneplus",
+   "repository" : "ssawrav/proprietary_vendor_oneplus",
    "target_path": "vendor/oneplus",
    "branch"     : "cm-14.1"
  },
